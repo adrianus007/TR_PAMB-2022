@@ -1,0 +1,93 @@
+com/example/tr_pamb/databinding/ActivityLoginBinding.java
+ com.example.tr_pamb.databinding.ActivityLoginBinding
+com/example/tr_pamb/ui/slideshow/SlideshowViewModel.java
+ com.example.tr_pamb.ui.slideshow.SlideshowViewModel
+com/example/tr_pamb/databinding/ProductItemsLayoutBinding.java
+ com.example.tr_pamb.databinding.ProductItemsLayoutBinding
+com/example/tr_pamb/Prevalent/Prevalent.java
+ com.example.tr_pamb.Prevalent.Prevalent
+com/example/tr_pamb/databinding/ContentHomeBinding.java
+ com.example.tr_pamb.databinding.ContentHomeBinding
+com/example/tr_pamb/Model/Users.java
+ com.example.tr_pamb.Model.Users
+com/example/tr_pamb/Model/Products.java
+ com.example.tr_pamb.Model.Products
+com/example/tr_pamb/databinding/ActivityAdminCategoryBinding.java
+ com.example.tr_pamb.databinding.ActivityAdminCategoryBinding
+com/example/tr_pamb/AdminCategoryActivity.java
+ com.example.tr_pamb.AdminCategoryActivity
+ com.example.tr_pamb.AdminCategoryActivity$1
+ com.example.tr_pamb.AdminCategoryActivity$2
+ com.example.tr_pamb.AdminCategoryActivity$3
+ com.example.tr_pamb.AdminCategoryActivity$4
+ com.example.tr_pamb.AdminCategoryActivity$5
+ com.example.tr_pamb.AdminCategoryActivity$6
+ com.example.tr_pamb.AdminCategoryActivity$7
+ com.example.tr_pamb.AdminCategoryActivity$8
+ com.example.tr_pamb.AdminCategoryActivity$9
+com/example/tr_pamb/databinding/ActivityAdminAddNewProductBinding.java
+ com.example.tr_pamb.databinding.ActivityAdminAddNewProductBinding
+com/example/tr_pamb/databinding/FragmentGalleryBinding.java
+ com.example.tr_pamb.databinding.FragmentGalleryBinding
+com/example/tr_pamb/databinding/AppBarHomeBinding.java
+ com.example.tr_pamb.databinding.AppBarHomeBinding
+Interface/ItemClickListner.java
+ Interface.ItemClickListner
+com/example/tr_pamb/databinding/NavHeaderHomeBinding.java
+ com.example.tr_pamb.databinding.NavHeaderHomeBinding
+com/example/tr_pamb/databinding/FragmentHomeBinding.java
+ com.example.tr_pamb.databinding.FragmentHomeBinding
+com/example/tr_pamb/ui/slideshow/SlideshowFragment.java
+ com.example.tr_pamb.ui.slideshow.SlideshowFragment
+ com.example.tr_pamb.ui.slideshow.SlideshowFragment$1
+com/example/tr_pamb/databinding/FragmentSlideshowBinding.java
+ com.example.tr_pamb.databinding.FragmentSlideshowBinding
+com/example/tr_pamb/databinding/ActivityHomeBinding.java
+ com.example.tr_pamb.databinding.ActivityHomeBinding
+com/example/tr_pamb/databinding/ActivityRegisterBinding.java
+ com.example.tr_pamb.databinding.ActivityRegisterBinding
+ViewHolder/ProductViewHolder.java
+ ViewHolder.ProductViewHolder
+com/example/tr_pamb/ui/gallery/GalleryViewModel.java
+ com.example.tr_pamb.ui.gallery.GalleryViewModel
+com/example/tr_pamb/ui/home/HomeViewModel.java
+ com.example.tr_pamb.ui.home.HomeViewModel
+com/example/tr_pamb/LoginActivity.java
+ com.example.tr_pamb.LoginActivity
+ com.example.tr_pamb.LoginActivity$1
+ com.example.tr_pamb.LoginActivity$2
+ com.example.tr_pamb.LoginActivity$3
+ com.example.tr_pamb.LoginActivity$4
+com/example/tr_pamb/ui/gallery/GalleryFragment.java
+ com.example.tr_pamb.ui.gallery.GalleryFragment
+ com.example.tr_pamb.ui.gallery.GalleryFragment$1
+com/example/tr_pamb/ui/home/HomeFragment.java
+ com.example.tr_pamb.ui.home.HomeFragment
+ com.example.tr_pamb.ui.home.HomeFragment$1
+com/example/tr_pamb/databinding/ActivityMainBinding.java
+ com.example.tr_pamb.databinding.ActivityMainBinding
+com/example/tr_pamb/BuildConfig.java
+ com.example.tr_pamb.BuildConfig
+com/example/tr_pamb/AdminAddNewProductActivity.java
+ com.example.tr_pamb.AdminAddNewProductActivity
+ com.example.tr_pamb.AdminAddNewProductActivity$1
+ com.example.tr_pamb.AdminAddNewProductActivity$2
+ com.example.tr_pamb.AdminAddNewProductActivity$3
+ com.example.tr_pamb.AdminAddNewProductActivity$3$1
+ com.example.tr_pamb.AdminAddNewProductActivity$3$2
+ com.example.tr_pamb.AdminAddNewProductActivity$4
+ com.example.tr_pamb.AdminAddNewProductActivity$5
+com/example/tr_pamb/HomeActivity.java
+ com.example.tr_pamb.HomeActivity
+ com.example.tr_pamb.HomeActivity$1
+ com.example.tr_pamb.HomeActivity$2
+com/example/tr_pamb/RegisterActivity.java
+ com.example.tr_pamb.RegisterActivity
+ com.example.tr_pamb.RegisterActivity$1
+ com.example.tr_pamb.RegisterActivity$2
+ com.example.tr_pamb.RegisterActivity$2$1
+com/example/tr_pamb/MainActivity.java
+ com.example.tr_pamb.MainActivity
+ com.example.tr_pamb.MainActivity$1
+ com.example.tr_pamb.MainActivity$2
+ com.example.tr_pamb.MainActivity$3
