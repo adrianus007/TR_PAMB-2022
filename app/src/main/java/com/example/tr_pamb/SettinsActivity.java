@@ -179,12 +179,12 @@ public class SettinsActivity extends AppCompatActivity {
                         ref.child(Prevalent.currentOnlineUser.getPhone()).updateChildren(userMap);
 
                         progressDialog.dismiss();
-                        startActivity(new Intent(SettinsActivity.this, MainActivity.class));
+                        startActivity(new Intent(SettinsActivity.this, HomeActivity.class));
                         Toast.makeText(SettinsActivity.this, "Profile Info Update Success", Toast.LENGTH_SHORT).show();
                         finish();
                     } else {
                         progressDialog.dismiss();
-                        Toast.makeText(SettinsActivity.this, "Profile Info UpdateFail", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(SettinsActivity.this, "Error", Toast.LENGTH_SHORT).show();
                     }
                 }
             });
