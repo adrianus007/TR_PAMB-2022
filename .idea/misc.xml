@@ -9,6 +9,7 @@
         <entry key="..\:/Users/Adrianus Simamora/AndroidStudioProjects/TR_PAMB/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/Adrianus Simamora/AndroidStudioProjects/TR_PAMB/app/src/main/res/layout/activity_register.xml" value="0.1" />
         <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/activity_admin_category.xml" value="0.1" />
+        <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/activity_admin_new_orders.xml" value="0.2713541666666667" />
         <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/activity_cart.xml" value="0.1" />
         <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/activity_confirm_final_order.xml" value="0.2713541666666667" />
         <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/activity_product_details.xml" value="0.1" />
@@ -16,6 +17,7 @@
         <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/app_bar_home.xml" value="0.12447916666666667" />
         <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/cart_item_layout.xml" value="0.1" />
         <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/nav_header_home.xml" value="0.1265625" />
+        <entry key="..\:/Users/Regards/AndroidStudioProjects/TR_PAMB-2022/app/src/main/res/layout/orders_layout.xml" value="0.1" />
       </map>
     </option>
   </component>
